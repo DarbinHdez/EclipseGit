@@ -5,6 +5,8 @@ public class EjemploGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola mundo de Git");
+		
+		String nombre = "Darbin Ulin";
 	}
 
 }
