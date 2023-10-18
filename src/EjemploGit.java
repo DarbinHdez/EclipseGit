@@ -7,6 +7,8 @@ public class EjemploGit {
 		System.out.println("Hola mundo de Git");
 		
 		String nombre = "Darbin Ulin";
+		
+		System.out.println(nombre);
 	}
 
 }
