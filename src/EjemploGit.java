@@ -8,10 +8,11 @@ public class EjemploGit {
 		
 		String nombre = "Darbin Ulin";
 		String edad = "26";
+		String año = "1997";
 		
 		System.out.println(nombre);
 		System.out.println(edad);
-		
+		System.out.println(año);
 	}
 
 }
